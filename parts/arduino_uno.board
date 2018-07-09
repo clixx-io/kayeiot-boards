@@ -1,0 +1,50 @@
+[overview]
+name = Arduino Uno
+units = mm
+width = 68.6
+height = 53.3
+type = Processor
+
+[gpio]
+pins = 29
+rows = 2
+pin_width = 2.54mm
+header_x = 16.4
+header_y = 3
+orientation = horizontal
+
+[gpio_assignments]
+pin0_name = RXD0,PD0
+pin1_name = TXD0,PD1
+pin2_name = D2,PD2
+pin3_name = D3,PD3
+pin4_name = D4,PD4
+pin5_name = D5,PD5
+pin6_name = D6,PD6
+pin7_name = D7,PD7
+pin8_name = D8,PB0
+pin9_name = D9,PB1
+pin10_name = D10,PB2
+pin11_name = D11,PB3,MOSI
+pin12_name = D12,PB4,MISO
+pin13_name = D13,PB5,SCK
+pin14_name = GND
+pin15_name = AREF
+pin16_name = PC4,ADC4,SDA
+pin17_name = PC5,ADC5,SCL
+pin18_name = NC
+pin19_name = IOREF
+pin20_name = RESET
+pin21_name = 3V3,VCC
+pin22_name = 5V,VCC
+pin23_name = ADC0,A0
+pin24_name = ADC1,A1
+pin25_name = ADC2,A2
+pin26_name = ADC3,A3
+pin27_name = ADC4,A4,SDA
+pin28_name = ADC5,A5,SCL
+
+[image]
+file = arduino-uno.svg
+attribution = https://www.iconspng.com/clipart/arduino-fixed/arduino-fixed.svg
+
