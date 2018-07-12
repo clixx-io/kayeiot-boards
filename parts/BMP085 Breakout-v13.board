@@ -1,0 +1,25 @@
+[overview]
+height=0.6
+name=Barometric Pressure Sensor - BMP085 Breakout
+units=in
+width=0.6
+
+[gpio]
+connection_point=Bottom Centre
+pins=6
+rows=1
+
+[image]
+file=BMP085 Breakout-v13_breadboard.svg
+
+[gpio_assignments]
+pin1_name = VCC
+pin2_name = GND
+pin3_name = EOC
+pin4_name = XCLR
+pin5_name = SCL 
+pin6_name = SDA
+
+[arduino_libraries]
+headers = Adafruit_BMP085.h
+classes = Adafruit_BMP085
