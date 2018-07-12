@@ -1,3 +1,5 @@
+[overview]
+type = processor
 
 [image]
 file=arduino-uno.svg
