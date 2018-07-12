@@ -1,0 +1,36 @@
+[overview]
+name = TI Launchpad MSP430G2
+units = mm
+width = 67
+height = 50
+type = processor
+
+[gpio]
+connection_point=Top Centre
+pins=20
+rows=2
+
+[image]
+file=TI_Launchpad_MSP430G2_breadboard.svg
+
+[gpio_assignments]
+pin1_name = DVCC,VCC
+pin2_name = P1.0,D1
+pin3_name = P1.1,TXD
+pin4_name = P1.2,RXD
+pin5_name = P1.3,D2 
+pin6_name = P1.4,D3
+pin7_name = P1.5,D4
+pin8_name = P2.0,D5
+pin9_name = P2.1,D6
+pin10_name = P2.2,D7
+pin11_name = DVSS,GND
+pin12_name = XIN,P2.6
+pin13_name = XOUT,P2.7
+pin14_name = TEST,SBWICK
+pin15_name = RST 
+pin16_name = P1.7,D8
+pin17_name = P1.6,LED
+pin18_name = P2.5,D9
+pin19_name = P2.4,D10
+pin20_name = P2.3,D11
