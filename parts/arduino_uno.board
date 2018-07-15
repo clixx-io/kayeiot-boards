@@ -12,6 +12,7 @@ pin_width = 2.54mm
 header_x = 16.4
 header_y = 3
 orientation = horizontal
+connection_point=Top Centre
 
 [gpio_assignments]
 pin0_name = RXD0,PD0

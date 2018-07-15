@@ -1,8 +1,8 @@
 [overview]
-height=0.6
 name=Barometric Pressure Sensor - BMP085 Breakout
 units=in
 width=0.6
+height=0.6
 
 [gpio]
 connection_point=Bottom Centre
@@ -22,4 +22,4 @@ pin6_name = SDA
 
 [arduino_libraries]
 headers = Adafruit_BMP085.h
-classes = Adafruit_BMP085
+device_classes = Adafruit_BMP085
