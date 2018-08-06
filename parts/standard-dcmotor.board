@@ -1,0 +1,20 @@
+[overview]
+name = DC Motor
+units = mm
+width = 60
+height = 60
+type = actuator
+
+[gpio]
+pins = 3
+rows = 1
+orientation = horizontal
+connection_point=Top Centre
+
+[gpio_assignments]
+pin0_name = VCC
+pin1_name = GND
+
+[image]
+file = medium-dc-motor.png
+
