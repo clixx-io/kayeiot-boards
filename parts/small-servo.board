@@ -1,0 +1,21 @@
+[overview]
+name = Servo Motor
+units = mm
+width = 60
+height = 60
+type = actuator
+
+[gpio]
+pins = 3
+rows = 1
+orientation = horizontal
+connection_point=Top Centre
+
+[gpio_assignments]
+pin0_name = GND
+pin1_name = VCC
+pin2_name = DIN
+
+[image]
+file = small-servo.png
+
