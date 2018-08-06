@@ -19,3 +19,6 @@ pin2_name = DIN
 [image]
 file = small-servo.png
 
+[arduino_libraries]
+headers = Servo.h
+device_classes = Servo
