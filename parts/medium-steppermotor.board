@@ -1,0 +1,22 @@
+[overview]
+name = Stepper Motor
+units = mm
+width = 60
+height = 60
+type = actuator
+
+[gpio]
+pins = 4
+rows = 1
+orientation = horizontal
+connection_point=Top Centre
+
+[gpio_assignments]
+pin0_name = M1
+pin1_name = M2
+pin2_name = M3
+pin3_name = M4
+
+[image]
+file = medium-stepper.png
+
