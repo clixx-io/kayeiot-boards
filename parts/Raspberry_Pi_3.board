@@ -54,5 +54,5 @@ pin40_name=D21
 
 
 [image]
-bitmap=Raspberry_Pi_3_illustration.svg
+file=Raspberry_Pi_3_illustration.svg
 attribution_source=https://commons.wikimedia.org/wiki/File:Raspberry_Pi_3_illustration.svg
