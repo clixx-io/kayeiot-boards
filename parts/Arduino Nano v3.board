@@ -1,0 +1,52 @@
+[overview]
+name = Arduino Nano (Rev3.0)
+height = 63.20
+width = 28.5
+units = mm
+
+[gpio]
+connection_point=Bottom Centre
+pins=36
+rows=1
+
+[gpio_assignments]
+pin10_name=D7
+pin11_name=D8
+pin12_name=D9
+pin13_name=D10
+pin14_name=D11/MOSI
+pin15_name=D12/MISO
+pin16_name=VIN
+pin17_name=GND
+pin18_name=RESET
+pin19_name=5V
+pin1_name=D1/TX
+pin20_name=A7
+pin21_name=A6
+pin22_name=A5
+pin23_name=A4
+pin24_name=A3
+pin25_name=A2
+pin26_name=A1
+pin27_name=A0
+pin28_name=AREF
+pin29_name=3V3
+pin2_name=D0/RX
+pin30_name=D13/SCK
+pin31_name=D12/MISO
+pin32_name=5V
+pin33_name=D13/SCK
+pin34_name=D11/MOSI
+pin35_name=RESET
+pin36_name=GND
+pin3_name=RESET
+pin4_name=GND
+pin5_name=D2
+pin6_name=D3
+pin7_name=D4
+pin8_name=D5
+pin9_name=D6
+
+[image]
+file=Arduino Nano3_breadboard.svg
+
