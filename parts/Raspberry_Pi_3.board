@@ -53,6 +53,6 @@ pin39_name=GND
 pin40_name=D21
 
 
-[Image]
+[image]
 bitmap=Raspberry_Pi_3_illustration.svg
 attribution_source=https://commons.wikimedia.org/wiki/File:Raspberry_Pi_3_illustration.svg
