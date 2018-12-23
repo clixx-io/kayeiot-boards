@@ -3,7 +3,8 @@ width=88.020042
 height=58.479717
 name=Raspberry Pi 3
 units=mm
-type = processor
+type = mcu
+architectures=linux, gnu
 
 [gpio]
 connection_point=Top Centre

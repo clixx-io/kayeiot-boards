@@ -3,7 +3,8 @@ name = Arduino Uno
 units = mm
 width = 68.6
 height = 53.3
-type = Processor
+type = mcu
+architectures=avr
 
 [gpio]
 pins = 29

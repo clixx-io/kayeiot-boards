@@ -3,6 +3,8 @@ name = Arduino Nano (Rev3.0)
 height = 63.20
 width = 28.5
 units = mm
+type = mcu
+architectures=avr
 
 [gpio]
 connection_point=Bottom Centre

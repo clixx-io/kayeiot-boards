@@ -3,7 +3,8 @@ name = TI Launchpad MSP430G2
 units = mm
 width = 67
 height = 50
-type = processor
+type = mcu
+architectures=msp430
 
 [gpio]
 connection_point=Top Centre
