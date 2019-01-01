@@ -1,8 +1,8 @@
 [overview]
 name=Arduino Mega 2560
-units=px
-width=305.973
-height=151.2
+units=mm
+width=101.6
+height=53.34
 type = mcu
 architectures=avr
 
