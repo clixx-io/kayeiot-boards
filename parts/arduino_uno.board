@@ -50,3 +50,5 @@ pin28_name = ADC5,A5,SCL
 file = arduino-uno.svg
 attribution = https://www.iconspng.com/clipart/arduino-fixed/arduino-fixed.svg
 
+[arduino-cli]
+fbqn=arduino:avr:uno

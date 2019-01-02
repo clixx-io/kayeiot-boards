@@ -52,3 +52,5 @@ pin9_name=D6
 [image]
 file=Arduino Nano3_breadboard.svg
 
+[arduino-cli]
+fbqn=arduino:avr:nano

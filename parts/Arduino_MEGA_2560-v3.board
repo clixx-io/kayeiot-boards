@@ -101,3 +101,6 @@ pin86_name=A1
 
 [image]
 file=Arduino_MEGA_2560-Rev3_breadboard.svg
+
+[arduino-cli]
+fbqn=arduino:avr:mega
